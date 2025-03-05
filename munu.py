@@ -85,7 +85,7 @@ else:
     st.markdown(
         """
         <div style='text-align: center; font-size: 60px; color: #e63946; font-weight: bold; margin-top: -20px;'>
-            🎈🎉 Aap bohat ache hain, aap meri duniya ka sabse khoobsurat hissa hain. Munu, aap meri khushi, mera sukoon, aur meri har muskurahat ki wajah hain. Aapki har baat dil ko sukoon deti hai, aur aapka har ek lafz meri duniya roshan kar deta hai. Aap sirf ek naam nahi, ek ehsaas hain jo har waqt dil ke kareeb rehta hai. ❤️🎉🎈
+            🎈🎉 Aap bohat ache hain, aap meri chotu si duniya ka sabse khoobsurat hissa hain. Munu, aap meri khushi, mera sukoon, aur meri har muskurahat ki wajah hain. Aapki har baat mere liye bhtt importance rakhti h , aur aapka har ek lafz mere liyee bht khaas h. Aap aik ek ehsaas hain jo har waqt dil ke kareeb rehta hai. ❤️🎉🎈
         </div>
         """,
         unsafe_allow_html=True
